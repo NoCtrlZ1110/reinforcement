@@ -1,6 +1,8 @@
 # <b>Nguyễn Văn Huy - 18020651</b>
 ```Giải thích các câu hỏi được comment ở code```
 
+## Questions : http://ai.berkeley.edu/reinforcement.html
+
 ## Question 1 - Value Iteration
 
 ```python
